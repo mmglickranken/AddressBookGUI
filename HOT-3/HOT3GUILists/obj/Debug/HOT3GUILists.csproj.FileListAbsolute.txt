@@ -1,0 +1,11 @@
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\bin\Debug\HOT3GUILists.exe.config
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\bin\Debug\HOT3GUILists.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\bin\Debug\HOT3GUILists.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\obj\Debug\HOT3GUILists.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\obj\Debug\HOT3GUILists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\obj\Debug\HOT3GUILists.Properties.Resources.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\obj\Debug\HOT3GUILists.csproj.GenerateResource.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\obj\Debug\HOT3GUILists.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\obj\Debug\HOT3GUILists.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\obj\Debug\HOT3GUILists.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3GUILists\obj\Debug\HOT3GUILists.frmAddressBook.resources

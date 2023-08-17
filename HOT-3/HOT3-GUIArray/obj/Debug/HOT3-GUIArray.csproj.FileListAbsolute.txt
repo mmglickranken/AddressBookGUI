@@ -1,0 +1,22 @@
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\bin\Debug\HOT3-GUIArray.exe.config
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\bin\Debug\HOT3-GUIArray.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\bin\Debug\HOT3-GUIArray.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\obj\Debug\HOT3_GUIArray.Properties.Resources.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.csproj.GenerateResource.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-3\HOT3-GUIArray\obj\Debug\HOT3_GUIArray.frmAddressBook.resources
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\bin\Debug\HOT3-GUIArray.exe.config
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\bin\Debug\HOT3-GUIArray.exe
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\bin\Debug\HOT3-GUIArray.pdb
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\obj\Debug\HOT3_GUIArray.frmAddressBook.resources
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\obj\Debug\HOT3_GUIArray.Properties.Resources.resources
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.csproj.GenerateResource.cache
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.exe
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\New folder\HOT-3\HOT3-GUIArray\obj\Debug\HOT3-GUIArray.pdb
